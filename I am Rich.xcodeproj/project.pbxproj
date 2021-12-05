@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		497202592725F32400DBD12C /* iamrich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iamrich.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		497202592725F32400DBD12C /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4972025C2725F32400DBD12C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4972025E2725F32400DBD12C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		497202602725F32400DBD12C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		4972025A2725F32400DBD12C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				497202592725F32400DBD12C /* iamrich.app */,
+				497202592725F32400DBD12C /* I am Rich.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		497202582725F32400DBD12C /* iamrich */ = {
+		497202582725F32400DBD12C /* I am Rich */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4972026D2725F32500DBD12C /* Build configuration list for PBXNativeTarget "iamrich" */;
+			buildConfigurationList = 4972026D2725F32500DBD12C /* Build configuration list for PBXNativeTarget "I am Rich" */;
 			buildPhases = (
 				497202552725F32400DBD12C /* Sources */,
 				497202562725F32400DBD12C /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = iamrich;
+			name = "I am Rich";
 			productName = iamrich;
-			productReference = 497202592725F32400DBD12C /* iamrich.app */;
+			productReference = 497202592725F32400DBD12C /* I am Rich.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 497202542725F32400DBD12C /* Build configuration list for PBXProject "iamrich" */;
+			buildConfigurationList = 497202542725F32400DBD12C /* Build configuration list for PBXProject "I am Rich" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				497202582725F32400DBD12C /* iamrich */,
+				497202582725F32400DBD12C /* I am Rich */,
 			);
 		};
 /* End PBXProject section */
@@ -289,11 +289,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6V7CS8S3QH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iamrich/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -316,11 +318,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6V7CS8S3QH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iamrich/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -339,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		497202542725F32400DBD12C /* Build configuration list for PBXProject "iamrich" */ = {
+		497202542725F32400DBD12C /* Build configuration list for PBXProject "I am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4972026B2725F32500DBD12C /* Debug */,
@@ -348,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4972026D2725F32500DBD12C /* Build configuration list for PBXNativeTarget "iamrich" */ = {
+		4972026D2725F32500DBD12C /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4972026E2725F32500DBD12C /* Debug */,
